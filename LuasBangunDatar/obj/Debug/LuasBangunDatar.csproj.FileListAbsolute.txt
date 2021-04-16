@@ -1,0 +1,7 @@
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\bin\Debug\LuasBangunDatar.exe.config
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\bin\Debug\LuasBangunDatar.exe
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\bin\Debug\LuasBangunDatar.pdb
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.csprojAssemblyReference.cache
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.exe
+D:\BOOTCAMP\.NET\Day-5\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.pdb
